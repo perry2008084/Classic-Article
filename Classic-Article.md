@@ -7,3 +7,6 @@
 
 **程序员提高**
 * [程序员技术练级攻略](http://coolshell.cn/articles/4990.html)
+
+**创业**
+* [FreeWheel CTO：技术创业十年，我从中学到了哪些经验和教训？](http://www.infoq.com/cn/articles/freewheel-cto-ten-years-of-technological-entrepreneurship)
